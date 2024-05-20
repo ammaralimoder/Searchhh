@@ -2,7 +2,7 @@
 
 You can deploy this app to Heroku with the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/your-username/your-repository)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ammaralimoder/Searchhh)
 
 ### Prerequisites
 
