@@ -1,0 +1,27 @@
+{
+  "name": "Telegram Bot with Data Retrieval",
+  "description": "A Telegram bot that retrieves data from a large text file.",
+  "repository": "https://github.com/your-username/your-repository",
+  "env": {
+    "TELEGRAM_TOKEN": {
+      "description": "Telegram bot token",
+      "required": true
+    },
+    "DATA_URL": {
+      "description": "URL to download the data file",
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
