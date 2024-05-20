@@ -4,3 +4,4 @@ gunicorn==20.1.0
 python-telegram-bot==13.7
 requests==2.27.1
 py7zr==0.16.2
+boto3==1.24.1  # Add boto3 for S3 compatibility
